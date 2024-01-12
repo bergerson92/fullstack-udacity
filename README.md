@@ -8,7 +8,7 @@ link: http://fullstack854618985144.s3-website-us-east-1.amazonaws.com
 
 ### Instruction
 
-1. Clone the project - `git clone https://github.com/Storm-Maker/Hosting-Fullstack-AWS.git`
+1. Clone the project - `git clone https://github.com/.git`
 2. Go into the project directory - `cd udagram-frontend`
 3. Install the dependencies - `npm install`
 4. Start the frontend - `npm run start`
@@ -20,6 +20,5 @@ link: http://fullstack854618985144.s3-website-us-east-1.amazonaws.com
 
 ## Documentation
 
-- Detailed Documentation is provided in `./Docs/README.md`
-- Screenshots of the AWS configurations and the CircleCI are provided in `./Docs/Screenshots/`
-- Architecture Diagrams of the AWS and the Pipeline are provided in `./Docs/Architecture Diagrams/`
+- Detailed Documentation is provided in the Screenshots folder.
+- Architecture Diagrams of the AWS and the Pipeline are provided in Diagrams folder.
