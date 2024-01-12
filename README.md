@@ -8,7 +8,7 @@ link: http://fullstack854618985144.s3-website-us-east-1.amazonaws.com
 
 ### Instruction
 
-1. Clone the project - `git clone https://github.com/.git`
+1. Clone the project - `git clone https://github.com/.git](https://github.com/bergerson92/fullstack-udacity`
 2. Go into the project directory - `cd udagram-frontend`
 3. Install the dependencies - `npm install`
 4. Start the frontend - `npm run start`
