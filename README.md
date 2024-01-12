@@ -1,8 +1,3 @@
-  - [Instruction](#instruction)
-    - [Project Setup](#project-setup)
-  - [Documentation](#documentation)
-
-
 ## Getting Started
 
 1. Clone this repo locally into the location of your choice.
